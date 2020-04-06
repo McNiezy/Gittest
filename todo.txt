@@ -1,2 +1,3 @@
 2 Milk cow
 3 Fly to the moon
+4 Give Nigel $1000
