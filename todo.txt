@@ -2,3 +2,4 @@
 3 Fly to the moon
 4 Set up Computer
 5 Jump over 10 cows
+6 Give Nigel $1000
